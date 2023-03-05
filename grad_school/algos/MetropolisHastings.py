@@ -49,5 +49,3 @@ def binaryentropy(v,n):
 
 u = MetroHast(100, 10000)
 uu = MetroHast(100, 100)
-
-

@@ -54,5 +54,3 @@ def cdf(weights):
         cumsum += w
         result.append(cumsum / total)
     return result
-
-
